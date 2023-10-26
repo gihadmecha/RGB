@@ -1,5 +1,7 @@
 # RGB_LED
 
+The RGB LED can emit different colors by mixing the 3 basic colors red, green, and blue.
+
 https://github.com/gihadmecha/RGB/assets/19871755/1dc12565-ad40-41b8-a4b5-3451d7265e54
 
 Demo: https://youtu.be/b-wBDJdZLBU?si=ANYIR9PldQq0d3Vh
